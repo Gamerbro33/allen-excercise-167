@@ -135,7 +135,7 @@ public class allenSodNotZod {
 			
 			//begins to loop unless they press Q
 			menuSelection = validateMainMenu(input);
-		}
+		}//end of while
 		
 		//test for receipt before printing final report
 		if(grandTotal > 0.0) {
